@@ -1,4 +1,9 @@
 # UI5 CodeJam Bookshop Sample
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/ui5-react-exercises-codejam)](https://api.reuse.software/info/github.com/SAP-samples/ui5-react-exercises-codejam)
+[![Visits Badge](https://badges.pufler.dev/visits/SAP-samples/ui5-react-exercises-codejam)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/SAP-samples/ui5-react-exercises-codejam)](https://badges.pufler.dev)
+
+[![Contributors Display](https://badges.pufler.dev/contributors/SAP-samples/ui5-react-exercises-codejam?size=50&padding=5&bots=false)](https://badges.pufler.dev)
 
 App designed to be a React/UI5 Web Components for React companion to the UI5 Bookshop app.
 
